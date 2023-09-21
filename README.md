@@ -22,4 +22,4 @@ https://www.osintcurio.us/ <br>
 https://inteltechniques.com/podcast.html <br>
 
 Blogs: <br>
-https://www.bellingcat.com
+<a href="https://www.bellingcat.com">bellingcat</a><br>
